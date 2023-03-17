@@ -1,0 +1,2 @@
+IL9,Ilyushin IL96,9800
+I93,Ilyushin IL96-300,9800
